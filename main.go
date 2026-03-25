@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import slice "ConceitosAvancados/Slice"
 
 func main() {
-	fmt.Println("Projeto inicial")
+	//ponteiros.ExemploPonteiro()
+
+	//slice.ExemploSlice()
+
+	slice.ExemploMake()
 }
