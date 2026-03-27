@@ -1,11 +1,13 @@
 package main
 
-import slice "ConceitosAvancados/Slice"
+import "ConceitosAvancados/ExemploStruct"
 
 func main() {
 	//ponteiros.ExemploPonteiro()
 
 	//slice.ExemploSlice()
 
-	slice.ExemploMake()
+	//slice.ExemploMake()
+
+	ExemploStruct.ExemploStruct()
 }
