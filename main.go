@@ -1,6 +1,6 @@
 package main
 
-import "ConceitosAvancados/ExemploStruct"
+import exemplointerface "ConceitosAvancados/ExemploInterface"
 
 func main() {
 	//ponteiros.ExemploPonteiro()
@@ -9,5 +9,7 @@ func main() {
 
 	//slice.ExemploMake()
 
-	ExemploStruct.ExemploStruct()
+	//ExemploStruct.ExemploStruct()
+
+	exemplointerface.ExemploInterface()
 }
