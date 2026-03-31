@@ -1,6 +1,6 @@
 package main
 
-import exemploerro "ConceitosAvancados/ExemploErro"
+import exemplogenerics "ConceitosAvancados/ExemploGenerics"
 
 func main() {
 	//ponteiros.ExemploPonteiro()
@@ -13,5 +13,7 @@ func main() {
 
 	//exemplointerface.ExemploInterface()
 
-	exemploerro.ExemploErro()
+	//exemploerro.ExemploErro()
+
+	exemplogenerics.ExemploGenerics()
 }
