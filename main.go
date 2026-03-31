@@ -1,6 +1,6 @@
 package main
 
-import exemplointerface "ConceitosAvancados/ExemploInterface"
+import exemploerro "ConceitosAvancados/ExemploErro"
 
 func main() {
 	//ponteiros.ExemploPonteiro()
@@ -11,5 +11,7 @@ func main() {
 
 	//ExemploStruct.ExemploStruct()
 
-	exemplointerface.ExemploInterface()
+	//exemplointerface.ExemploInterface()
+
+	exemploerro.ExemploErro()
 }
