@@ -1,6 +1,6 @@
 package main
 
-import exemplogenerics "ConceitosAvancados/ExemploGenerics"
+import exemplogoroutineecontext "ConceitosAvancados/ExemploGoroutineEContext"
 
 func main() {
 	//ponteiros.ExemploPonteiro()
@@ -15,5 +15,7 @@ func main() {
 
 	//exemploerro.ExemploErro()
 
-	exemplogenerics.ExemploGenerics()
+	//exemplogenerics.ExemploGenerics()
+
+	exemplogoroutineecontext.ExemploGoroutineEConcorrencia()
 }
